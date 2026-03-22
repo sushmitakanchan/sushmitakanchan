@@ -1,4 +1,4 @@
-# Hi, I'm Sushmita Kanchan
+# Hi, I'm Sushhhhh✨
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;AI+Product+Builder;React+%7C+TypeScript+%7C+UI+Engineering;Building+Mirror+Journal\&center=true\&width=800\&height=50)
 
@@ -18,9 +18,9 @@ I build **structured, scalable, and state-driven interfaces** where UI and logic
 
 ## 🚀 Currently Building
 
-### 🪞 Mirror Journal — AI Journaling App
+<img src="./newgit.gif" align="right" width="350"/>
 
-![Mirror Journal Demo](https://via.placeholder.com/900x450?text=Mirror+Journal+Preview)
+### 🪞 Mirror Journal — AI Journaling App
 
 An AI-powered journaling experience designed to help users **reflect, understand patterns, and think deeper over time**.
 
@@ -29,6 +29,7 @@ An AI-powered journaling experience designed to help users **reflect, understand
 * ⚡ Built with React + Express + PostgreSQL
 * 🔄 Designed for future features like tagging, summarization, and pattern detection
 
+<br clear="right"/>
 
 ## 🧰 Tech Stack
 
