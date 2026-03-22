@@ -1,9 +1,15 @@
+
 # Hi, I'm Sushhhhh✨
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;AI+Product+Builder;React+%7C+TypeScript+%7C+UI+Engineering;Building+Mirror+Journal\&center=true\&width=800\&height=50)
+<p align="center">
+  <img src="./linkedin-cover-frontend-engineer.png" width="100%" />
+</p>
 
-🚀 **Frontend Engineer** building **AI-powered product experiences**
-💡 Focused on **React, TypeScript, and intelligent UI systems**
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+engineer,+building+AI-powered+products;React+%7C+Typescript+%7C+UI+Engineering;Stacking+skills+into+stacking+dreams%F0%9F%AA%84&colors=00F5D4,FFFFFF,00F5D4&center=true&width=800&height=50&vCenter=true&pause=1200" />
+</p>
 
 ---
 
